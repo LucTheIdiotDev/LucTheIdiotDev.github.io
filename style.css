@@ -3,5 +3,11 @@ head, body {
 }
 
 input + input {
+ display: block;
+ margin-top: 1ch;
+}
+
+label + label {
+ display: block;
  margin-top: 1ch;
 }
